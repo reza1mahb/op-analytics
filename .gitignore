@@ -4,7 +4,7 @@ reference_data/.DS_Store
 *.ini
 Pipfile.lock
 op_rewards_tracking/csv_outputs/tvl_flows_by_token.csv
-*.pyc
+*.mn
 __pycache__/
 helper_functions/get_op_chain_addresses_from_repo_ms_copy.ipynb
 l2_economics/downloads
